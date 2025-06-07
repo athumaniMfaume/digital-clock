@@ -5,8 +5,8 @@ It displays the current time and updates every second.
 
 ## 💻 Demo
 
-[Click here to view the live clock](https://your-username.github.io/digital-clock/)  
-*(Replace this link with your GitHub Pages link after publishing)*
+[Click here to view the live clock](https://athumanimfaume.github.io/digital-clock/)  
+
 
 ## 🚀 Features
 
